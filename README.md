@@ -10,11 +10,11 @@ PDF: [https://aclanthology.org/D15-1036.pdf](https://aclanthology.org/D15-1036.p
 
 ## Presentation
 
-Presentation slides: **[Add your presentation link here](PASTE_PRESENTATION_LINK_HERE)**
+Presentation slides: **[here](Rethinking_Eval_Methods_for_Word_Embeddings.pptx)**
 
 ## Teaching Video
 
-YouTube video: **[Add your YouTube link here](PASTE_YOUTUBE_LINK_HERE)**
+YouTube video: **[link here](https://youtu.be/w-U_Ifp2_WA?si=oH-kltbSLcuY_p0N)**
 
 ## Overview
 
